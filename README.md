@@ -1,2 +1,3 @@
 # youtube-dl
-youtube playlist/video downloader (mp3/mp4)
+pretty straight forward
+just run the damn script
